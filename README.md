@@ -31,8 +31,7 @@ As a full-stack software developer, I love building web applications with JavaSc
   <br>
   <code> <img title ="Redux" height = "25" src ="images/redux.svg"></code>
   <code> <img title ="Docker" height = "25" src ="images/docker.svg"></code>
-  <code> <img title ="AWS" height = "25" src ="images/aws.svg
-"></code>
+  <code> <img title ="AWS" height = "25" src ="images/aws.svg"></code>
 
 </p>
 <hr>
