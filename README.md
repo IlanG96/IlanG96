@@ -29,9 +29,9 @@ As a full-stack software developer, I love building web applications with JavaSc
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <br>
-  <code> <img title ="Redux" height = "25" src ="images/redux.svg"></code>
-  <code> <img title ="Docker" height = "25" src ="images/docker.svg"></code>
-  <code> <img title ="AWS" height = "25" src ="images/aws.svg"></code>
+  <code><img title ="Redux" height = "25" src ="images/redux.svg"></code>
+  <code><img title ="Docker" height = "25" src ="images/docker.svg"></code>
+  <code><img title ="AWS" height = "25" src ="images/aws.svg"></code>
 
 </p>
 <hr>
