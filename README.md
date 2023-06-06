@@ -28,6 +28,7 @@ As a full-stack software developer, I love building web applications with JavaSc
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <br>
   <code> <img title ="Redux" height = "25" src ="images/redux.svg"></code>
   <code> <img title ="Docker" height = "25" src ="images/docker.svg"></code>
   <code> <img title ="AWS" height = "25" src ="images/aws.svg
@@ -44,11 +45,8 @@ As a full-stack software developer, I love building web applications with JavaSc
 
 
 ### Contact Me
- * <code>
-    <a href="mailto: goldlmilan@gmail.com" title="Email"><img width="22" src="images/email.svg"> Email</a>
-    </code>
+ * <a href="mailto: goldlmilan@gmail.com" title="Email"><img width="22" src="images/email.svg"> Email</a>
  <br>
  
- * <code>
-    <a href="https://www.linkedin.com/in/ilan-gold/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
-    </code>
+ * <a href="https://www.linkedin.com/in/ilan-gold/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+    
