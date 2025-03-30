@@ -1,8 +1,8 @@
 # Hi, I'm Ilan! 👋
 
-I'm a third-year computer science student with a passion for software development, machine learning, and data science. I'm always on the lookout for opportunities to learn and improve my skills, and I'm excited to explore new technologies and ideas.
+I'm a software developer with a strong passion for building impactful applications and exploring the world of machine learning and data science. I'm always looking for opportunities to grow, learn new technologies, and take on exciting challenges.
 
-As a full-stack software developer, I love building web applications with JavaScript, React, and Node.js, as well as using other cool libraries and frameworks. I'm constantly looking for ways to expand my knowledge and expertise in these areas, and I'm always eager to take on new challenges.
+As a full-stack developer, I enjoy working with JavaScript, React, and Node.js, along with other modern frameworks and tools. I love creating web applications that are both functional and user-friendly, and I'm constantly pushing myself to expand my skills and stay current with industry trends.
 
 <hr>
 <h2 align="center">Languages & Frameworks & Tools</h2>
